@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/qlenlen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qlenlen&show_icons=true&theme=buefy&show=reviews,discussions_answered,prs_merged,prs_merged_percentage" alt="Qlen's github stats" /></a> | <a href="https://github.com/qlenlen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlenlen&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/qlenlen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qlenlen&show_icons=true&theme=buefy&show=reviews,discussions_answered,prs_merged,prs_merged_percentage" alt="Qlen's github stats" /></a> | <a href="https://github.com/qlenlen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlenlen&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
