@@ -1,0 +1,24 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天更新一次
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: qlenlen
+          SHOW_ICONS: true
+          INCLUDE_ALL_COMMITS: true
+          THEME: buefy
+          HIDE_BORDER: true
+          COUNT_PRIVATE: true
